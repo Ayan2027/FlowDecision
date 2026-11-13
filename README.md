@@ -3,6 +3,10 @@
 
 A rule-driven workflow automation platform that enables businesses to configure decision rules, execute multi-stage workflows, and generate explainable, auditable decisions.
 
+## 🌐 Live Demo
+
+**Try FlowDecision here:** [https://flow-decision.vercel.app](https://flow-decision.vercel.app)
+
 ## 📸 Dashboard Preview
 
 <p align="center">
